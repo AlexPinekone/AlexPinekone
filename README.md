@@ -1,16 +1,21 @@
-## Hi there 👋
+# Summary
 
-<!--
-**AlexPinekone/AlexPinekone** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a software developer with experience in web and various programming languages. I am responsible, honest, and enjoy teamwork.
 
-Here are some ideas to get you started:
+# Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+*  Programming languages: 
+![Languages](https://skillicons.dev/icons?i=js,html,css,cs)
+
+* Tools: 
+![Tools](https://skillicons.dev/icons?i=git,postman,github,mysql)
+
+* Frameworks: 
+![Frameworks](https://skillicons.dev/icons?i=react,next)
+
+ -->
+# Contact
+
+[Email](alejandro.pina.mail@gmail.com)
+
+[LinkedIn](www.linkedin.com/in/alexpinna)
