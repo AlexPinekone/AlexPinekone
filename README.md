@@ -13,7 +13,6 @@ I am a software developer with experience in web and various programming languag
 * Frameworks: 
 ![Frameworks](https://skillicons.dev/icons?i=react,next)
 
- -->
 # Contact
 
 [Email](alejandro.pina.mail@gmail.com)
