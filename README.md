@@ -5,7 +5,7 @@ I am a software developer with experience in web and various programming languag
 # Skills
 
 *  Programming languages: 
-![Languages](https://skillicons.dev/icons?i=js,html,css,cs)
+![Languages](https://skillicons.dev/icons?i=js,html,css)
 
 * Tools: 
 ![Tools](https://skillicons.dev/icons?i=git,postman,github,mysql)
